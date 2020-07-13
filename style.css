@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+    background-color: darkgray;
+}
+svg{
+    width: 600px;
+    height: 540px;
+    background-color: black;
+    border-radius: 10px;
+    border: 2px solid aqua;
+    color: burlywood;
+    box-shadow: 0px 0px 30px 5px black;
+}
